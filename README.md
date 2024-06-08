@@ -4,4 +4,4 @@ Bash script to setup NiFi on a local machine:
 - nifi_stg on port 8444
 - nifi_prd on port 8445
 - nifi_repository on port 18080
-- nifi toolkit with properties for all 3 environments
+- nifi_toolkit with properties for all 3 environments
